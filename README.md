@@ -2,11 +2,11 @@
 
 ## Secciones:
   * Inicio
-  * Nosotros *conectar a la sección de Historia*
+  * Nosotros: conectar a la sección de Historia
     Misión:
     Visión:
-    * (Our Skills: cambiar por video)
-    *Foto 100x667 (logo)
+    (Our Skills: cambiar por video)
+    Foto 100x667 (logo)
   * OUR SERVICES: Historia
   * TEAM:Equipo
   * WORK:Catálogo Ecommerce
