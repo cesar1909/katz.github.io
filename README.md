@@ -15,6 +15,8 @@
   *Eliminar PRICE Y NEWS*
   *
 ## Diseño:
-* BIZNIZ: Logo KATZ
-* Navegador: imágenes
-* INGLES/ESPAÑOL
+* Imágen pequeña para el logo de KATZ
+
+## Idioma:
+* INGLES
+* ESPAÑOL
