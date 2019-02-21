@@ -1,18 +1,24 @@
-# katz
+# Katz
 
 ## Secciones:
-  * Inicio
-  * Nosotros *conectar a la sección de Historia*
-    * (Misión y Visión)
-    * (Our Skills: cambiar por video)
-    *Foto 100x667 (logo)
+  * HOME: Inicio
+  * ABOUT US: Nosotros 
+    * Misión
+    * Visión
+    * Read more: conectar a la sección de Historia
+    * Our Work Process: metodología de trabajo
+    * Our Skills: cambiar por video
+     * Foto 100x667 (logo)
   * OUR SERVICES: Historia
   * TEAM:Equipo
   * WORK:Catálogo Ecommerce
   * CONTACT: Contacto (Cambiar sección WORK por catálogo)
     * Mapa
-  *Eliminar PRECIO Y NOTICIAS*
+  *Eliminar PRICE Y NEWS*
+  *
 ## Diseño:
-* BIZNIZ: Logo KATZ
-* Navegador: imágenes
-* INGLES/ESPAÑOL
+* Imágen pequeña para el logo de KATZ
+
+## Idioma:
+* INGLES
+* ESPAÑOL
