@@ -6,8 +6,8 @@
     * Misión
     * Visión
     * Read more: (conectar a la sección de Historia)
-    (Our Skills: cambiar por video)
-    Foto 100x667 (logo)
+    *(Our Skills: cambiar por video)
+     * Foto 100x667 (logo)
   * OUR SERVICES: Historia
   * TEAM:Equipo
   * WORK:Catálogo Ecommerce
