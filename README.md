@@ -3,9 +3,9 @@
 ## Secciones:
   * Inicio
   * Nosotros: 
-    Misión
-    Visión
-    (conectar a la sección de Historia)
+    *Misión
+    *Visión
+    *Read more: (conectar a la sección de Historia)
     (Our Skills: cambiar por video)
     Foto 100x667 (logo)
   * OUR SERVICES: Historia
