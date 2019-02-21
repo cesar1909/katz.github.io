@@ -5,7 +5,7 @@
   * Nosotros: 
     * Misión
     * Visión
-    *Read more: (conectar a la sección de Historia)
+    * Read more: (conectar a la sección de Historia)
     (Our Skills: cambiar por video)
     Foto 100x667 (logo)
   * OUR SERVICES: Historia
