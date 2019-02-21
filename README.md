@@ -1,10 +1,10 @@
 # katz
 
 ## Secciones:
-  * Inicio*
+  * Inicio
   * Nosotros *conectar a la sección de Historia*
-    *Misión:*
-    *Visión:*
+    *Misión:
+    *Visión:
     * (Our Skills: cambiar por video)
     *Foto 100x667 (logo)
   * OUR SERVICES: Historia
