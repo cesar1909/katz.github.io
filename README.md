@@ -1,7 +1,7 @@
 # katz
 
 ## Secciones:
-  * Inicio
+  * Inicio*
   * Nosotros *conectar a la sección de Historia*
     *Misión:*
     *Visión:*
