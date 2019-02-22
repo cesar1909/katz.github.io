@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="123ba534-a219-41f3-beb7-8b65903ccb0f" name="Default Changelist" comment="" />
+    <list default="true" id="123ba534-a219-41f3-beb7-8b65903ccb0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+            <state relative-caret-position="163">
+              <caret line="533" column="54" selection-start-line="533" selection-start-column="54" selection-end-line="533" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -25,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="970" column="40" lean-forward="true" selection-start-line="970" selection-start-column="40" selection-end-line="970" selection-end-column="40" />
+            <state relative-caret-position="22310">
+              <caret line="970" column="40" selection-start-line="970" selection-start-column="40" selection-end-line="970" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -57,6 +60,9 @@
       <find>help</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -67,10 +73,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="53" />
+    <option name="y" value="89" />
     <option name="width" value="1366" />
-    <option name="height" value="715" />
+    <option name="height" value="679" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -153,17 +160,18 @@
       <workItem from="1550810268271" duration="3252000" />
       <workItem from="1550817459256" duration="4832000" />
       <workItem from="1550850862196" duration="3017000" />
+      <workItem from="1550854026064" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11101000" />
+    <option name="totallyTimeSpent" value="11727000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="53" width="1366" height="715" extended-state="0" />
+    <frame x="0" y="89" width="1366" height="679" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.29828486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29828486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -212,14 +220,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg/fun-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg/client-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg/testimonial-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/assets/img/bg/fun-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/bg/client-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/bg/testimonial-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22310">
+          <caret line="970" column="40" selection-start-line="970" selection-start-column="40" selection-end-line="970" selection-end-column="40" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/bg/fondo_niños.jpeg">
       <provider selected="true" editor-type-id="images" />
@@ -230,17 +239,10 @@
     <entry file="file://$PROJECT_DIR$/assets/img/bg/fondo_niños3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="970" column="40" lean-forward="true" selection-start-line="970" selection-start-column="40" selection-end-line="970" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+        <state relative-caret-position="163">
+          <caret line="533" column="54" selection-start-line="533" selection-start-column="54" selection-end-line="533" selection-end-column="54" />
         </state>
       </provider>
     </entry>
