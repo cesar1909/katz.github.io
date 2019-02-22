@@ -259,7 +259,7 @@
     /*-------------------------------------------------------------------------*
      *                       09. Google Map js                                 *
      *-------------------------------------------------------------------------*/
-      var myCenter=new google.maps.LatLng( 23.8028085, 90.4070036 );
+      var myCenter=new google.maps.LatLng( 19.625090, -99.230220);
       function initialize(){
       var mapProp = {
         zoom:14,
