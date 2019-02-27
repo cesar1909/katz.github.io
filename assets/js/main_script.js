@@ -259,22 +259,6 @@
     /*-------------------------------------------------------------------------*
      *                       09. Google Map js                                 *
      *-------------------------------------------------------------------------*/
-      var myCenter=new google.maps.LatLng( 19.625090, -99.230220);
-      function initialize(){
-      var mapProp = {
-        zoom:14,
-        center:myCenter,
-        scrollwheel: false,
-        mapTpeIdy:google.maps.MapTypeId.ROADMAP
-      };
-          var map=new google.maps.Map(document.getElementById("contactgoogleMap"),mapProp);
-      }
-      google.maps.event.addDomListener(window, 'load', initialize);
-
-
-
-
-
     /*-------------------------------------------------------------------------*
      *                  10. Ajax Contact Form js                               *
      *-------------------------------------------------------------------------*/
